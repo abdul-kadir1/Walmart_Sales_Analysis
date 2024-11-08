@@ -1,5 +1,5 @@
 # PROJECT OVERVIEW
-![Alt Text](D:\Abdul_Kadir\Data Analyst\Projects_For_Data_Analysis\SQL_Python_Projects\Walmart_Project\walmart_project-piplelines.png)
+![Alt Text](Walmart Project.png)
 
 
 # Walmart Data Analysis: SQL + Python
