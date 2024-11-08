@@ -43,8 +43,7 @@ Documentation: Keep clear notes of each query's objective, approach, and results
 ## Requirements
 1. Python 3.8+
 2. SQL Databases: MySQL
-3. Python Libraries:
-4. pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2
+3. Python Libraries: pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2
 
 ## Project Structure
  1. -- data/                     # Raw data and transformed data
