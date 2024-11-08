@@ -50,11 +50,10 @@ SQL query scripts.
 Data files (if possible) or steps to access them.
 
 ## Requirements
-Python 3.8+
-SQL Databases: MySQL
-Python Libraries:
-pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2
-Kaggle API Key (for data downloading) 
+1. Python 3.8+
+2. SQL Databases: MySQL
+3. Python Libraries:
+4. pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2
 
 ## Project Structure
 |-- data/                     # Raw data and transformed data
@@ -64,9 +63,9 @@ Kaggle API Key (for data downloading)
 |-- main.py                   # Main script for loading, cleaning, and processing data
 
 ## Results and Insights
-Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
-Profitability: Insights into the most profitable product categories and locations.
-Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
+1. Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
+2. Profitability: Insights into the most profitable product categories and locations.
+3. Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
 
 ## Acknowledgments
 Data Source: Kaggle’s Walmart Sales Dataset
