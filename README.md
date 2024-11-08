@@ -54,11 +54,16 @@ Documentation: Keep clear notes of each query's objective, approach, and results
  5. -- main.py                   # Main script for loading, cleaning, and processing data
 
 ## Results and Insights
-1. Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
-2. Profitability: Insights into the most profitable product categories and locations.
-3. Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
+### 1. Sales Insights: 
+Key categories, branches with highest sales, and preferred payment methods.
+### 2. Profitability: 
+Insights into the most profitable product categories and locations.
+### 3. Customer Behavior: 
+Trends in ratings, payment preferences, and peak shopping hours.
 
 ## Acknowledgments
-1. Data Source: Kaggle’s Walmart Sales Dataset
-2. Inspiration: Walmart’s business case studies on sales and supply chain optimization.
+### 1. Data Source:
+Kaggle’s Walmart Sales Dataset
+### 2. Inspiration:
+Walmart’s business case studies on sales and supply chain optimization.
 
