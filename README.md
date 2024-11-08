@@ -1,5 +1,5 @@
 # PROJECT OVERVIEW
-![Alt Text](Walmart Project.png)
+![Alt Text](https://github.com/najirh/Walmart_SQL_Python/raw/main/walmart_project-piplelines.png)
 
 
 # Walmart Data Analysis: SQL + Python
