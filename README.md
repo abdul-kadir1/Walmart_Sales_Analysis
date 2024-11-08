@@ -55,11 +55,11 @@ Data files (if possible) or steps to access them.
 4. pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2
 
 ## Project Structure
- |-- data/                     # Raw data and transformed data
- |-- sql_queries/              # SQL scripts for analysis and queries
- |-- notebooks/                # Jupyter notebooks for Python analysis
- |-- README.md                 # Project documentation
- |-- main.py                   # Main script for loading, cleaning, and processing data
+ 1.|-- data/                     # Raw data and transformed data
+ 2.|-- sql_queries/              # SQL scripts for analysis and queries
+ 3.|-- notebooks/                # Jupyter notebooks for Python analysis
+ 4.|-- README.md                 # Project documentation
+ 5.|-- main.py                   # Main script for loading, cleaning, and processing data
 
 ## Results and Insights
 1. Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
