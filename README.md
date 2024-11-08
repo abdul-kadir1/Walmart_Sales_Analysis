@@ -1,3 +1,7 @@
+# PROJECT OVERVIEW
+![Alt Text](D:\Abdul_Kadir\Data Analyst\Projects_For_Data_Analysis\SQL_Python_Projects\Walmart_Project\walmart_project-piplelines.png)
+
+
 # Walmart Data Analysis: SQL + Python
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. 
 ## Project Steps
@@ -32,14 +36,15 @@ Table Creation: Set up tables in both MySQL and PostgreSQL using Python SQLAlche
 Verification: Run initial SQL queries to confirm that the data has been loaded accurately.
 
 ### 8. SQL Analysis: Complex Queries and Business Problem Solving
-Business Problem-Solving: Write and execute complex SQL queries to answer critical business questions, such as:
+#### Business Problem-Solving: Write and execute complex SQL queries to answer critical business questions, such as:
 Revenue trends across branches and categories.
 Identifying best-selling product categories.
 Sales performance by time, city, and payment method.
 Analyzing peak sales periods and customer buying patterns.
 Profit margin analysis by branch and category.
-Documentation: Keep clear notes of each query's objective, approach, and results.
+```
 
+```
 ## Requirements
 1. Python 3.8+
 2. SQL Databases: MySQL
