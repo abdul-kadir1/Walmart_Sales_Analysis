@@ -6,8 +6,8 @@
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. 
 ## Project Steps
 ### 1. Download Walmart Sales Data
-Data Source: Use the Kaggle to download the Walmart sales datasets.
-Storage: Save the data in the data/ folder for easy reference and access.
+####### 1.Data Source: Use the Kaggle to download the Walmart sales datasets.
+####### 2.Storage: Save the data in the data/ folder for easy reference and access.
 
 ### 3. Install Required Libraries and Load Data
 Libraries: Install necessary Python libraries using:
